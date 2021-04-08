@@ -1,0 +1,123 @@
+{
+  "basic_info": {
+    "name": "Euidong's Portfolio",
+    "titles": [
+      "안녕하세요~",
+      "Web lover❤️",
+      "잡식하는 Engineer",
+      "정의동입니다."
+    ],
+    "social": [
+      {
+        "name": "github",
+        "url": "https://euidong.github.com",
+        "class": "fab fa-github"
+      }
+    ],
+    "image": "myProfile.jpg"
+  },
+  "skills": {
+    "icons": [
+      {
+        "name": "TypeScript",
+        "class": "devicon-typescript-plain",
+        "level": "80"
+      },
+      {
+        "name": "JavaScript",
+        "class": "devicon-javascript-plain",
+        "level": "80"
+      },
+      {
+        "name": "C++",
+        "class": "devicon-cplusplus-plain",
+        "level": "90"
+      },
+      {
+        "name": "Python",
+        "class": "devicon-python-plain",
+        "level": "60"
+      },
+      {
+        "name": "Java",
+        "class": "devicon-java-plain",
+        "level": "60"
+      },
+      {
+        "name": "Go",
+        "class": "devicon-go-plain",
+        "level": "40"
+      },
+      {
+        "name": "NodeJS",
+        "class": "devicon-nodejs-plain",
+        "level": "90"
+      },
+      {
+        "name": "React",
+        "class": "devicon-react-plain",
+        "level": "90"
+      },
+      {
+        "name": "Redux",
+        "class": "devicon-redux-plain",
+        "level": "70"
+      },
+      {
+        "name": "Django",
+        "class": "devicon-django-plain",
+        "level": "50"
+      },
+      {
+        "name": "Android",
+        "class": "devicon-android-plain",
+        "level": "70"
+      },
+      {
+        "name": "AWS",
+        "class": "devicon-amazonwebservices-plain",
+        "level": "60"
+      },
+      {
+        "name": "Docker",
+        "class": "devicon-docker-plain",
+        "level": "70"
+      },
+      {
+        "name": "Kubernetes",
+        "class": "devicon-kubernetes-plain",
+        "level": "40"
+      },
+      {
+        "name": "Redis",
+        "class": "devicon-redis-plain",
+        "level": "70"
+      },
+      {
+        "name": "MySql",
+        "class": "devicon-mysql-plain",
+        "level": "90"
+      },
+      {
+        "name": "PostgreSql",
+        "class": "devicon-postgresql-plain",
+        "level": "50"
+      },
+      {
+        "name": "Git",
+        "class": "devicon-git-plain",
+        "level": "90"
+      },
+      {
+        "name": "Linux",
+        "class": "devicon-linux-plain",
+        "level": "50"
+      },
+      {
+        "name": "Ubuntu",
+        "class": "devicon-ubuntu-plain",
+        "level": "50"
+      }
+    ]
+  }
+}
