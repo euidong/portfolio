@@ -4,7 +4,7 @@
 
 - 2021.04.08 최초 Portfolio 작성
 
-https://euidong.gittub.io/portfolio
+https://euidong.github.io/portfolio
 
 ### 출처
 
