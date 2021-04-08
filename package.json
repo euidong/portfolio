@@ -1,7 +1,7 @@
 {
-  "name": "react-frontend-dev-portfolio",
-  "homepage": "https://euidong.github.io/portpolio",
-  "version": "0.1.0",
+  "name": "portfolio",
+  "homepage": "https://euidong.github.io/portfolio",
+  "version": "1.0.0",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
