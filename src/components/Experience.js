@@ -37,7 +37,11 @@ class Experience extends Component {
               color: "#fff",
               textAlign: "center",
             }}
-            icon={<a href={link} target="blank"><i class="fas fa-link experience-icon"></i></a>}
+            icon={
+              <a href={link} target="blank">
+                <i className="fas fa-link experience-icon"></i>
+              </a>
+            }
             key={i}
           >
             <div style={{ textAlign: "left", marginBottom: "4px" }}>
